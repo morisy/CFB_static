@@ -46,8 +46,10 @@
   name: MuckRock
   url: https://www.muckrock.com/
   news: >
+  
+    Technologies: Python, Django, Javascript, AWS
     MuckRock is a non-profit, collaborative news site that brings together journalists,
     researchers, activists, and regular citizens to request, analyze, and share government
     documents, making politics more transparent and democracies more informed.
     
-    Looking for folks interested in triaging todos or talking charts.
+    We're starting to explore a large-ish ongoing scraping project, and would love to chat with folks out there with experience in this area. Also, save the date: We're having a Public Interest Potluck on Feb. 8th to celebrate our 8th birthday! Details announced soon.
